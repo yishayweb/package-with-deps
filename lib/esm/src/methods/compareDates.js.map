@@ -1,0 +1,1 @@
+{"version":3,"file":"compareDates.js","sources":["../../../../src/methods/compareDates.ts"],"sourcesContent":["import { compareAsc } from 'date-fns';\n\nexport const compareDates = (a: Date, b: Date) => {\n  return compareAsc(a, b);\n};\n"],"names":[],"mappings":";;MAEa,YAAY,GAAG,CAAC,CAAO,EAAE,CAAO,KAAI;AAC/C,IAAA,OAAO,UAAU,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC;AAC1B;;;;"}
