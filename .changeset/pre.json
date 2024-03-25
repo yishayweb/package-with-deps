@@ -4,5 +4,7 @@
   "initialVersions": {
     "@yishayweb/package-with-deps": "1.0.7"
   },
-  "changesets": []
+  "changesets": [
+    "spicy-worms-drive"
+  ]
 }
