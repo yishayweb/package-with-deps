@@ -1,5 +1,11 @@
 # @yishayweb/package-with-deps
 
+## 1.0.8-beta.1
+
+### Patch Changes
+
+- d574e61: another pre
+
 ## 1.0.8-beta.0
 
 ### Patch Changes
