@@ -1,5 +1,11 @@
 # @yishayweb/package-with-deps
 
+## 1.0.9
+
+### Patch Changes
+
+- b81d92f: Created another str
+
 ## 1.0.8
 
 ### Patch Changes
