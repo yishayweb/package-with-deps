@@ -5,6 +5,7 @@
     "@yishayweb/package-with-deps": "1.0.8"
   },
   "changesets": [
+    "late-donuts-poke",
     "lazy-colts-doubt",
     "ten-boxes-shake"
   ]
