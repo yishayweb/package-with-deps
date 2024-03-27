@@ -1,6 +1,6 @@
 {
   "name": "@yishayweb/package-with-deps",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "license": "MIT",
   "main": "lib/cjs/src/index.js",
   "module": "lib/esm/src/index.js",
