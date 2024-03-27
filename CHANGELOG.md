@@ -1,5 +1,11 @@
 # @yishayweb/package-with-deps
 
+## 1.0.9-beta.0
+
+### Patch Changes
+
+- a676ad1: Updated 0
+
 ## 1.0.8
 
 ### Patch Changes
