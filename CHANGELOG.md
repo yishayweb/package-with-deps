@@ -1,5 +1,14 @@
 # @yishayweb/package-with-deps
 
+## 1.0.10
+
+### Patch Changes
+
+- 00a2957: Updating prerelease
+- 7de8f5a: Updated to 2
+- 0f58458: Updated 0
+- c50b0e4: Updated 1
+
 ## 1.0.9
 
 ### Patch Changes
