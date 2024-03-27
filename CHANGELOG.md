@@ -6,6 +6,12 @@
 
 - b81d92f: Created another str
 
+## 1.0.9-beta.2
+
+### Patch Changes
+
+- 4545933: Updated to 2
+
 ## 1.0.9-beta.1
 
 ### Patch Changes
