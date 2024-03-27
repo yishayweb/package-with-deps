@@ -1,7 +1,7 @@
 import moment from 'moment';
 
 export const isBeforeMoment = (a: Date, b: Date) => {
-  const str = 'hello there it in the on 1';
+  const str = 'hello there it in the on 1 and 2';
   return {
     isBefore: moment(a).isBefore(b),
     str: str,
