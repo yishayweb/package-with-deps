@@ -4,5 +4,7 @@
   "initialVersions": {
     "@yishayweb/package-with-deps": "1.0.8"
   },
-  "changesets": []
+  "changesets": [
+    "lazy-colts-doubt"
+  ]
 }
