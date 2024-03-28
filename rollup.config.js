@@ -14,18 +14,18 @@ export default {
   input: 'src/index.ts',
   output: [
     {
-      // file: packageJson.main,
-      dir: 'lib/cjs',
+      file: packageJson.main,
+      // dir: 'lib/cjs',
       format: 'cjs',
       sourcemap: true,
-      preserveModules: true,
+      // preserveModules: true,
     },
     {
-      // file: packageJson.module,
-      dir: 'lib/esm',
+      file: packageJson.module,
+      // dir: 'lib/esm',
       format: 'esm',
       sourcemap: true,
-      preserveModules: true,
+      // preserveModules: true,
     },
   ],
   plugins: [
