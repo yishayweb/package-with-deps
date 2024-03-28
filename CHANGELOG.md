@@ -1,5 +1,11 @@
 # @yishayweb/package-with-deps
 
+## 1.0.11
+
+### Patch Changes
+
+- a28de56: With bundles
+
 ## 1.0.10
 
 ### Patch Changes
